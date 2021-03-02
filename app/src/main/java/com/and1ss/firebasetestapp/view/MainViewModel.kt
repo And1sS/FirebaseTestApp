@@ -6,7 +6,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
 import com.and1ss.firebasetestapp.domain.LoadingState
-import com.and1ss.firebasetestapp.firebase.MessageRepository
+import com.and1ss.firebasetestapp.repository.MessageRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.collect

@@ -1,7 +1,7 @@
 package com.and1ss.firebasetestapp.di
 
 import com.and1ss.firebasetestapp.cache.LocalCache
-import com.and1ss.firebasetestapp.firebase.MessageRepository
+import com.and1ss.firebasetestapp.repository.MessageRepository
 import com.google.firebase.database.FirebaseDatabase
 import dagger.Module
 import dagger.Provides

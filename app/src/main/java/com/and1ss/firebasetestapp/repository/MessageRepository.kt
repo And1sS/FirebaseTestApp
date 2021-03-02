@@ -1,4 +1,4 @@
-package com.and1ss.firebasetestapp.firebase
+package com.and1ss.firebasetestapp.repository
 
 import com.and1ss.firebasetestapp.cache.LocalCache
 import com.and1ss.firebasetestapp.domain.LoadingState
